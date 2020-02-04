@@ -1,5 +1,8 @@
 This will not be reflected
-Now this will be reflected.(Changing this file in a cloneed copy).
-Now again in the local repo.
-On a new branch called new_br. Making some commits to diverge it from local master branch. Then commit directly to origin/master.
 
+Now this will be reflected.(Changing this file in a cloneed copy).
+
+Now again in the local repo.
+
+On a new branch called new_br. Making some commits to diverge it from local master branch. Then commit directly to origin/master.
+Making another commit for the same purpose.
